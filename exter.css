@@ -242,23 +242,6 @@ margin-left: 40px;
     gap: 50px;
 
 }
-.download-cv {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    background-color: gold;
-    color: black;
-    font-size: 20px;
-    font-weight: bold;
-    padding: 12px 25px;
-    border-radius: 30px;
-    margin-top: 20px;
-    cursor: pointer;
-    transition: 0.3s;
-}
-.download-cv:hover {
-    background-color: orange;
-}
 .worktitle {
     font-size: 36px;
     font-weight: bold;
